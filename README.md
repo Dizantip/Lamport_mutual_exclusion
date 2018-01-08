@@ -3,7 +3,7 @@ C++ project that implements the algorithm of Lamport timestamps and MPI-based mu
 
 ## Simple make build
 ```
-mkdir make && cd make && cmake ../cmake/ -G "Unix Makefiles"
+mkdir make && cd make && cmake ../cmake/ -G "Unix Makefiles" && make
 ```
 After successful build you may run builded MPI program
 ```
